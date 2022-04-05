@@ -1,5 +1,5 @@
 # 笔记/搜集/摘录/实践
-
+https://www.researchgate.net/publication/3188710_Dynamic_Configuration_for_Distributed_Systems/link/00b495368acfe6a2cf000000/download
 放置我的笔记、搜集、摘录、实践，保持好奇心。这里就是个随记，涉猎技术知识点广而不精，不能保证正确，看文需谨慎，后果很严重。
 
 ## 精华置顶
